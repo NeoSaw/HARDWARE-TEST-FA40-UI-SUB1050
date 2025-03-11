@@ -1,0 +1,24 @@
+build/default/debug/main.p1:  \
+main.c  \
+main.h  \
+definitions.h  \
+mcc_generated_files/system/system.h  \
+mcc_generated_files/system/config_bits.h  \
+mcc_generated_files/system/../system/clock.h  \
+mcc_generated_files/system/../system/pins.h  \
+mcc_generated_files/system/../adc/adc.h  \
+mcc_generated_files/system/../uart/eusart1.h  \
+mcc_generated_files/system/../uart/../system/system.h  \
+mcc_generated_files/system/../uart/uart_drv_interface.h  \
+mcc_generated_files/system/../uart/uart_types.h  \
+mcc_generated_files/system/../i2c_client/mssp1.h  \
+mcc_generated_files/system/../i2c_client/i2c_client_interface.h  \
+mcc_generated_files/system/../i2c_client/i2c_client_types.h  \
+mcc_generated_files/system/../nvm/nvm.h  \
+mcc_generated_files/system/../peripheral/tmr0.h  \
+mcc_generated_files/system/../peripheral/tmr1.h  \
+mcc_generated_files/system/../system/interrupt.h  \
+i2c_client_app.h  \
+mcc_generated_files/i2c_client/i2c_client_types.h  \
+key.h  \
+led.h 
